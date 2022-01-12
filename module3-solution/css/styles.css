@@ -1,0 +1,58 @@
+h2 {
+    font-size: 30px;
+    margin-bottom: 15px;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Oxygen', sans-serif;
+    padding-bottom: 20px;
+}
+
+h3 {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav {
+    background-color: #616c9b;
+    border-radius: 0;
+    border: 2px solid black;
+}
+
+.navbar-brand {
+    margin-left: 10px;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 2px solid black;
+}
+
+.navbar-brand h1 {
+    font-family: 'Oxygen', sans-serif;
+    color: black;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #222;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 0.75;
+}
+
+a {
+    text-align: center;
+    border: 1px solid black;
+    font: black;
+    background-color: #55b0fa;
+}
+
+section {
+    clear: both;
+    font-family: georgia, garamond, serif;
+    font-size: 1.2em;
+}
+
+.container {
+    background-color: #34afa9;
+    width: 98%;
+}
